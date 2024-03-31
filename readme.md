@@ -5,3 +5,4 @@ This is an example repository
 This repository is built step by step.
 Jauna rinda
 Vel viena rinda
+Vel viena jauna rinda parbaudei
